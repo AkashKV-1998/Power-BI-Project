@@ -41,11 +41,11 @@ A dynamic Power BI project that transcends traditional data analysis and visuali
   
   ![](https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_3.png) 
 
- v) The 'Customer Detail' contains analysis and experiments conducted for the products in the data:
+ v) The 'Customer Detail' contains analysis and experiments conducted for the customers in the data:
   
   ![](https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_4.png) 
 
-vi) The page Discussion contains a section that can be used to interact with AI to extract information from the data:
+vi) The page 'Discussion' contains a section that can be used to interact with AI to extract information from the data:
 
   ![](https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_5.png) 
 
