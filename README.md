@@ -1,4 +1,4 @@
-# Project-on-Power-BI
+# Adventure Works Project: Power-BI
 
 A dynamic Power BI project that transcends traditional data analysis and visualization. Embark on a journey through the Adventure Works dataset where data comes alive, weaving a compelling narrative through meticulously crafted visualizations and cutting-edge AI tools.
 
