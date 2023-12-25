@@ -19,3 +19,10 @@ A dynamic Power BI project that transcends traditional data analysis and visuali
   4. Calculated Wizardry: 🧙‍♂️
   
   Behold the magic of calculated columns and measures! These behind-the-scenes conjurations extract valuable nuggets of wisdom, turning raw numbers into actionable metrics. Every calculation is a stroke of brilliance, illuminating the path to informed decision-making.
+
+</br>
+
+  The relationship created between the data can be found in the Model View Tab:
+  
+  ![]([https://github.com/AkashKV-1998/Detection-and-Localization-of-Copy-Move-Image-Forgery-using-Deep-Learning-Networks/blob/main/Image%20Files%20md/Img_man.png](https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_0.png)https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_0.png) 
+
