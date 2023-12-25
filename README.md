@@ -24,5 +24,5 @@ A dynamic Power BI project that transcends traditional data analysis and visuali
 
   The relationship created between the data can be found in the Model View Tab:
   
-  ![]([https://github.com/AkashKV-1998/Detection-and-Localization-of-Copy-Move-Image-Forgery-using-Deep-Learning-Networks/blob/main/Image%20Files%20md/Img_man.png](https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_0.png)https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_0.png) 
+  ![](https://github.com/AkashKV-1998/Power-BI-Project/blob/main/image/Img_0.png) 
 
